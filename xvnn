@@ -8,7 +8,7 @@ import os
 os.system("clear")
 print("\033[93m")
 
-print('''\033[94m Tools By XVin
+print('''\033[94m Ngentot
 __  ____     ___       
  \ \/ /\ \   / (_)_ __  
   \  /  \ \ / /| | '_ \ 
